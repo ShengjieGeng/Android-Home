@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/items">
+    <com.example.geng.drag.CircleImageView
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/photo"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:text="张三"
+        android:layout_toRightOf="@id/photo"
+        android:layout_alignTop="@+id/photo"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/message"
+        android:textSize="15dp"
+        android:text="你好吗"
+        android:textColor="#c7bfbf"
+        android:singleLine="true"
+        android:layout_below="@id/name"
+        android:layout_toRightOf="@id/photo"/>
+    <TextClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:text="18"
+        android:onClick="num"
+        android:id="@+id/num"
+        android:textColor="#ffffff"
+        android:textSize="13dp"
+        android:padding="5dp"
+        android:background="@drawable/circletextview"
+        />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/name"
+        android:layout_marginStart="69dp"
+        android:layout_marginTop="318dp"
+        android:id="@+id/textView" />
+
+
+</RelativeLayout>
