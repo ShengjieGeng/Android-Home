@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="select">
+        <item name="android:textColor">#090a09</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+
+        <!--<item name="android:textSize">30dp</item>-->
+    </style>
+    <style name="login">
+        <!--<item name="android:textSize">30dp</item>-->
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="P_textSize">
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="court_textSize">
+        <!--<item name="android:textSize">30dp</item>-->
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="pose_8textSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_marginRight">15dp</item>
+    </style>
+    <style name="pose_6textSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_marginRight">15dp</item>
+    </style>
+    <style name="pose_4textSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    <style name="pose_3textSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">50dp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginRight">30dp</item>
+    </style>
+    <style name="sub_4TextSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+    <style name="sub_8TextSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+    <style name="sub_6TextSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+    <style name="sub_3TextSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+    <style name="subInput_3TextSize">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:maxLength">3</item>
+        <item name="android:textColor">#000</item>
+        </style>
+    <style name="layout_gravity_center">
+        <item name="android:layout_weight">2</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+</resources>

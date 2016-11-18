@@ -1,0 +1,156 @@
+<resources>
+    <string name="next">获取胸牌号</string>
+    <string name="setXiongpaihao">请输入第一个开始考试学生的胸牌号</string>
+    <string name="setNet">网络设置</string>
+    <string name="setIP">请设置IP</string>
+    <string name="setPort">请设置端口号</string>
+    <string name="setSQLServerName">请设置SqlServer的用户名</string>
+    <string name="setSQLServerPassword">请设置SqlServer的密码</string>
+    <string name="setXPH">胸牌号设置</string>
+    <string name="app_name">艺考评分</string>
+    <string name="tip">请选择专业:</string>
+    <string name="count">账  号:</string>
+    <string name="count_hint">请输入账号</string>
+    <string name="password">密  码:</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="save">保存密码</string>
+    <string-array name="professions">
+        <item>服装表演</item>
+        <item>健美操</item>
+        <item>啦啦操</item>
+        <item>流行舞</item>
+        <item>体育舞蹈</item>
+        <item>舞蹈编导</item>
+        <item>中国舞</item>
+    </string-array>
+
+    <string-array name="fuzhuangby1_projectIDs">
+        <item>\'xiangmF\'</item>
+        <item>\'caiyF\'</item>
+    </string-array>
+    <string-array name="fuzhuangby2_projectIDs">
+        <item>\'yuyF\'</item>
+        <item>\'yongzF\'</item>
+    </string-array>
+
+    <string-array name="jianmeic1_projectIDs">
+        <item>\'xingtJ\'</item>
+        <item>\'gaotitJ\'</item>
+        <item>\'qutifttJ\'</item>
+        <item>\'nanduzhJ\'</item>
+    </string-array>
+    <string-array name="jianmeic2_projectIDs">
+        <item>\'chengtJ\'</item>
+    </string-array>
+
+    <string-array name="lalac1_projectIDs">
+        <item>\'xingtL\'</item>
+        <item>\'suzL\'</item>
+    </string-array>
+    <string-array name="lalac2_projectIDs">
+        <item>\'chengtL\'</item>
+    </string-array>
+
+    <string-array name="liuxingw1_projectIDs">
+        <item>\'xingxL\'</item>
+        <item>\'hengcL\'</item>
+        <item>\'zongcL\'</item>
+        <item>\'houyL\'</item>
+        <item>\'bantuiphL\'</item>
+        <item>\'jiqL\'</item>
+    </string-array>
+    <string-array name="liuxingw2_projectIDs">
+        <item>\'mofL\'</item>
+        <item>\'wudaozpL\'</item>
+    </string-array>
+
+    <string-array name="tiyuwd1_projectIDs">
+        <item>\'xingtT\'</item>
+        <item>\'pingzT\'</item>
+        <item>\'chaT\'</item>
+        <item>\'shuangfeitT\'</item>
+
+    </string-array>
+    <string-array name="tiyuwd2_projectIDs">
+        <item>\'ladingwT\'</item>
+        <item>\'modT\'</item>
+    </string-array>
+
+    <string-array name="wudaobd1_projectIDs">
+        <item>\'xingxiangxtW\'</item>
+        <item>\'hengcW\'</item>
+        <item>\'shucW\'</item>
+        <item>\'houyW\'</item>
+        <item>\'bantuiphW\'</item>
+        <item>\'dongzuomfW\'</item>
+    </string-array>
+    <string-array name="wudaobd2_projectIDs">
+        <item>\'wudaozpW\'</item>
+        <item>\'mingtibyW\'</item>
+    </string-array>
+
+    <string-array name="zhongguow1_projectIDs">
+        <item>\'xingxZ\'</item>
+        <item>\'hengcZ\'</item>
+        <item>\'zhongcZ\'</item>
+        <item>\'houyZ\'</item>
+        <item>\'bantuiphZ\'</item>
+        <item>\'jiqZ\'</item>
+    </string-array>
+    <string-array name="zhongguow2_projectIDs">
+        <item>\'mofZ\'</item>
+        <item>\'wudaozpZ\'</item>
+    </string-array>
+
+    <string name="profession_name_fzby">服装表演</string>
+    <string name="profession_name_jmc">健美操</string>
+    <string name="profession_name_llc">啦啦操</string>
+    <string name="profession_name_lxw">流行舞</string>
+    <string name="profession_name_tywd">体育舞蹈</string>
+    <string name="profession_name_wdbd">舞蹈编导</string>
+    <string name="profession_name_zgw">中国舞</string>
+    <string name="group1_name">第一小组</string>
+    <string name="group2_name">第二小组</string>
+    <string name="xiongpai">胸牌号</string>
+    <string name="action_name_xiangm">相貌</string>
+    <string name="action_name_caiy">才艺</string>
+    <string name="action_name_suz">素质</string>
+
+    <string name="action_name_yuy">语  言</string>
+    <string name="action_name_yongz">泳  装</string>
+    <string name="action_name_xingt">形  体</string>
+    <string name="action_name_gaott">高 踢 腿</string>
+    <string name="action_name_qutiftt">躯体分腿跳</string>
+    <string name="action_name_nanduzh">难度组合</string>
+    <string name="action_name_chengt">成  套</string>
+    <string name="action_name_xingx">形  象</string>
+    <string name="action_name_hengc">横  叉</string>
+    <string name="action_name_zongc">纵  叉</string>
+    <string name="action_name_houy">后  腰</string>
+    <string name="action_name_bantuiph">搬腿平衡</string>
+    <string name="action_name_jiq">技  巧</string>
+    <string name="action_name_mof">模  仿</string>
+    <string name="action_name_wudaozp">舞蹈作品</string>
+    <string name="action_name_pingz">平  转</string>
+    <string name="action_name_cha">叉</string>
+    <string name="action_name_shuangft">双飞|跳</string>
+    <string name="action_name_ladw">拉丁舞</string>
+    <string name="action_name_mod">摩  登</string>
+    <string name="action_name_mingtiby">命题表演</string>
+    <string name="action_name_dongzuomo">动作模仿</string>
+    <string name="order">操  作</string>
+    <string name="submit">提  交</string>
+    <string name="total_submit">总提交</string>
+    <string name="x1">空</string>
+    <string name="x2">空</string>
+    <string name="x3">空</string>
+    <string name="x4">空</string>
+    <string name="x5">空</string>
+    <string name="x6">空</string>
+    <string name="x7">空</string>
+    <string name="x8">空</string>
+    <string name="x9">空</string>
+    <string name="x10">空</string>
+
+</resources>
